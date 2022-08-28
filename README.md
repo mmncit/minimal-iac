@@ -1,4 +1,6 @@
-# Automate provisioning of AWS cloud infrastructure using terraform
+# minimal-iac
+
+Spike to automate provisioning of AWS cloud infrastructure using terraform
 
 ## Deploy instance
 
