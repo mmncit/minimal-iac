@@ -1,8 +1,8 @@
 # Configure the AWS Provider
 provider "aws" {
   region = "us-east-1"
-  access_key = "AKIAW3XBBLFGV777EVPV"
-  secret_key = "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"
+  access_key = var.access_key
+  secret_key = var.secret_key
 }
 
 # Create an aws instance named "micro-server"
